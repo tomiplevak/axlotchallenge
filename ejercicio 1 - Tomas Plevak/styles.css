@@ -1,0 +1,238 @@
+/*Ventana y Diseño*/
+body{
+    top: 0px;
+    left: 0px;
+    width: 791px;
+    height: 1564px;
+    background: #ffffff padding-box;
+    opacity: 1;
+}
+#worktable{
+    position: absolute;
+    top: 24px;
+    left: 11px;
+    width: 770px;
+    height: 1170px;
+
+    background: #FFFFFF padding-box;
+    box-shadow: 0px 2px 8px #00000029;
+    border-radius: 5px;
+   }
+   /*Imagen de cabecera*/
+.header{
+    top: 24px;
+    left: 11px;
+    width: 770px;
+    height: 270px;
+    background: transparent;
+    border-radius: 5px 5px 0px 0px;
+}
+/*Fuente para informacion personal: nombre y trabajo*/
+.info{
+    text-align: left;
+    font: normal normal normal 12px/17px Noto Sans;
+    letter-spacing: 0px;
+    color: #666666;
+    opacity: 1;
+}
+/*Fuente para parrafos*/
+p{
+    text-align: left;
+    font: normal normal normal 16px/22px Noto Sans;
+    letter-spacing: 0px;
+    color: #666666;
+    opacity: 1;
+}
+/*Sección 1: POST*/
+#post .jamieicon{
+    position: absolute;
+    top: 300px;
+    left: 30px;
+  }
+#post .jamiename{
+    position: absolute;
+    top: 303px;
+    left: 83px;
+}
+#post .jamiejob{
+    position:absolute;
+    top: 323px;
+    left: 83px;
+    height: 17px;
+}
+.heart{
+    position:absolute;
+    top: 303px;
+    left: 718px;
+}
+.title{
+    position: absolute;
+    top: 355px;
+    left: 30px;
+    width: 459px;
+    height: 40px;
+    text-align: left;
+    font: normal normal  300 24px/29px Montserrat;
+    letter-spacing: 0px;
+    color: #666666;
+    opacity: 1;
+}
+.p1{
+    position: absolute;
+    top: 400px;
+    left: 30px;
+    width: 710px;
+    height: 110px;
+}
+.readmore{
+    position: absolute;
+    top: 520px;
+    left: 30px;
+    width: 130px;
+    height: 30px;
+    text-align: left;
+    font: normal normal normal 12px/17px Noto Sans;
+    letter-spacing: 0px;
+    color: #5A90BC;
+    opacity: 1;
+}
+/*Seccion 2: COMENTARIOS*/
+#comments{
+    position:absolute;
+    top: 562px;
+    width: 770px;
+    height: 510px;
+    background: #FFEDDA4C padding-box;
+    border-radius: 0px 0px 5px 5px;
+    opacity: 1;
+}
+#comments .title{
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    height: 14px;
+    text-align: left;
+    font: normal normal normal 11px/14px Montserrat;
+    letter-spacing: 2.2px;
+    color: #604731;
+    opacity: 1;
+}
+.jennifericon{
+    position: absolute;
+    top: 70px;
+    left: 30px;
+ }
+.jennifername{
+    position: absolute;
+    top: 73px;
+    left: 83px;
+}
+.jenniferjob{
+    position: absolute;
+    top: 93px;
+    left: 83px;
+}
+.p2{
+    position: absolute;
+    top: 125px;
+    left: 82px;
+    width: 658px;
+    height: 70px;
+}
+#comments .jamieicon{
+    position: absolute;
+    top: 210px;
+    left:82px;
+}
+#comments .jamiename{
+    position: absolute;
+    top:213px;
+    left:135px;
+    height: 17px;
+}
+#comments .jamiejob{
+    position: absolute;
+    top:233px;
+    left:135px;
+    width: 88px;
+    height: 17px;
+}
+.p3{
+    position: absolute;
+    top:265px;
+    left:134px;
+}
+.jeremyicon{
+        position: absolute;
+        top:350px;
+        left:30px;
+}
+.jeremyname{
+    position: absolute;
+    top:353px;
+    left:83px;
+}
+.jeremyjob{
+    position: absolute;
+    top:373px;
+    left:83px;
+}
+.p4{
+    position: absolute;
+    top:405px;
+    left:82px;
+    width: 658px;
+    height: 70px;
+}
+.reply1{
+    position: absolute;
+    top:86px;
+    left:716px;
+    width: 24px;
+    height: 24px;
+}
+.reply2{
+    position: absolute;
+    top:226px;
+    left:716px;
+    width: 24px;
+    height: 24px;
+}
+.reply3{
+    position: absolute;
+    top:366px;
+    left:716px;
+    width: 24px;
+    height: 24px;
+}
+/*Sección 3: ABOUT*/
+.question{
+    position:absolute;
+    top: 1088px;
+    left: 102px;
+    text-align: left;
+    font: normal normal normal 16px/22px Noto Sans;
+    letter-spacing: 0px;
+    color: #666666;
+    opacity: 0.5;
+}
+#about .jamieicon{
+    position: absolute;
+    top: 1098px;
+    left: 30px;
+}
+.arrow{
+    position: absolute;
+    top: 1106px;
+    left: 716px;
+}
+hr{
+    position:absolute;
+    top: 1137px;
+    left:102px;
+    width: 580px;
+    height: 1px;
+    border: 0;
+    background: #66666647 padding-box;
+    opacity: 1;
+}
